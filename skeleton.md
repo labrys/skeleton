@@ -107,7 +107,7 @@ The project is pre-configured to run tests through multiple CI providers.
 
 ### Azure Pipelines
 
-[Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) are the preferred provider as they provide free, fast, multi-platform services. See azure-pipelines.yml for more details.
+[Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) provide free, fast, multi-platform services. See azure-pipelines.yml for more details.
 
 Features include:
 
